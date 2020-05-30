@@ -1,5 +1,5 @@
 # Covid-19-Detection-BY-Lung-X-ray-using-Azure-Custom-Vision-from-Azure-Cognitive-Services
-1)First we collect all the Data and then build a Using Azure Custom Vision
+1)First we collect all the Data and then build a model Using Azure Custom Vision
 
 2)We Export the model using  tensorflow.lite model and use it Android Phone and make a application for Covid Detection
 
